@@ -31,7 +31,7 @@ width:100%;
  display:none;
  }
 #header{
-background: url(../img/1.jpg)no-repeat;
+background: url(../img/15.jpeg)no-repeat;
 
    }
 .header p{
@@ -41,7 +41,7 @@ padding-top:25px;
 .header p a{
 font-size:36px;
 font-weight:bold;
-color:#000000;
+color:#FFFFFF;
 font-family:Georgia, "Times New Roman", Times, serif;
 text-decoration:none;
    }
